@@ -110,24 +110,24 @@ http://localhost:3000
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](<img width="1920" height="918" alt="Screenshot 2026-04-29 111104" src="https://github.com/user-attachments/assets/ecc4d061-9fd1-46bc-9c6e-014885a22a1b" />
-)
+<img width="1920" height="918" alt="Screenshot 2026-04-29 111104" src="https://github.com/user-attachments/assets/cee930c2-0c83-48b4-a11a-a72b8c80d894" />
+
 
 ### 👤 About Page
-![About Page](<img width="1920" height="915" alt="Screenshot 2026-04-29 111122" src="https://github.com/user-attachments/assets/6ecd89a2-0967-4cc3-a3ad-2f6332856047" />
-)
+<img width="1920" height="915" alt="Screenshot 2026-04-29 111122" src="https://github.com/user-attachments/assets/b90d2ecf-42ad-4805-a73a-6a9d99e4978c" />
+
 
 ### 📞 Contact Page
-![Contact Page](<img width="1920" height="915" alt="Screenshot 2026-04-29 111053" src="https://github.com/user-attachments/assets/17e089b2-4e7f-44a2-b2b9-48b95274c89d" />
-)
+<img width="1920" height="915" alt="Screenshot 2026-04-29 111053" src="https://github.com/user-attachments/assets/1466bb97-ca99-494b-a49d-1bd0c0d0ffcd" />
+
 
 ### 👥 User Query Page
-![User Page](<img width="1920" height="922" alt="Screenshot 2026-04-30 101236" src="https://github.com/user-attachments/assets/8d49d7fe-1146-4f8f-9a89-c73a7960b49f" />
-)
+<img width="1920" height="922" alt="Screenshot 2026-04-30 101236" src="https://github.com/user-attachments/assets/a3f6bbcf-170f-49a6-a590-796943e1c6db" />
+
 
 ### ❌ 404 Not Found
-![Not Found Page](<img width="1920" height="921" alt="Screenshot 2026-04-29 111153" src="https://github.com/user-attachments/assets/011c270d-83dd-41d3-800c-11191489c951" />
-)
+<img width="1920" height="921" alt="Screenshot 2026-04-29 111153" src="https://github.com/user-attachments/assets/2f62f7e2-9e97-44f9-b822-8b5b673c583b" />
+
 
 ---
 
